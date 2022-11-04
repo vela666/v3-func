@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3_app"]=self["webpackChunkvue3_app"]||[]).push([[171],{5590:function(e,r,a){a.r(r),a.d(r,{default:function(){return o}});var n=a(8222);const t={frameborder:"0",class:"iframe",scrolling:"no",src:"https://vela666.github.io/404/"};function c(e,r,a,c,s,u){return(0,n.wg)(),(0,n.iD)("iframe",t)}var s={name:"404"},u=a(3744);const i=(0,u.Z)(s,[["render",c],["__scopeId","data-v-55c9b8de"]]);var o=i}}]);
+//# sourceMappingURL=error404.2c7a1adc.js.map
